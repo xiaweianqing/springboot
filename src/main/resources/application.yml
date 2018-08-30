@@ -1,0 +1,7 @@
+server:
+  post: 8080
+  servlet:
+    context-path: /sb
+
+name: name1
+age: age1
